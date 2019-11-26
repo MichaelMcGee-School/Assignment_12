@@ -11,7 +11,7 @@ Welcome to StaticProject's documentation!
    :caption: Contents:
 
    fortnite
-
+   beatSaber
 
 
 Indices and tables
