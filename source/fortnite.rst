@@ -9,7 +9,7 @@ must compete to be the last one standing by killing every other player in
 the game. During the game, players collect weapons, build safe structures,
 and try to avoid the Storm that damages all players outside of a safe zone.
 
-How to play Fortnite:
+How to play Fortnite
 ---------------------
 
 Step 1: Pick a landing spot.
@@ -30,8 +30,8 @@ Step 8: Hunt down the rest of the lobby.
 
 Step 9: Eliminate everyone else in the lobby and bam Victory Royale!
 
-Comments on Fortnite
---------------------
+Fortnite Rating
+---------------
 
 Fortnite is a very fun game to play with friends and have fun together on.
 However, there are a lot of sweaty players who play the game now and are

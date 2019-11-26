@@ -10,8 +10,20 @@ Welcome to StaticProject's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   fortnite
    beatSaber
+   fortnite
+   fruitNinjaVR
+   just_dance
+   luigi's_mansion
+   Minecraft
+   mtgArena
+   quake
+   stranded_deep
+   super_metroid
+   super_monkey_ball_2
+   TF2
+   uno
+
 
 
 Indices and tables

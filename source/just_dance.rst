@@ -25,4 +25,4 @@ Step 5: Dance your little heart out baby!
 Step 6: Make sure to "accidentally" nudge those around you to get an
 advantage.
 
-Step 7:
+Step 7: Dominate the competition and make sure to win.
