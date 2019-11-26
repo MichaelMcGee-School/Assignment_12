@@ -7,6 +7,9 @@ While its predecessor, Doom, from 1993 was arguably a
 lot more formative, this certainly was what cemented the
 concept as an actual genre.
 
+.. image:: quake_cover.jpg
+    :width: 50%
+
 That said, coming out in 1996, it certainly is showing
 its age in some regard, especially visually. Every enemy
 in the game looks like they’re made of papercraft or
@@ -30,6 +33,9 @@ aged a bit better in this regard. It’s very obvious
 they had to make the enemies bullet sponges because
 they couldn’t place as many enemies in a stage without
 the framerate dipping.
+
+.. image:: quake_screenshot.jpg
+    :width: 50%
 
 The Quake franchise has also become rather famous for
 its multiplayer aspect. It had a much better netcode

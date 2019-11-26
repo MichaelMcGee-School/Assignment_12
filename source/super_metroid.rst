@@ -9,6 +9,9 @@ but let me tell you: I played this game just a few weeks
 ago, and honestly… Super Metroid has quickly became one
 of my favorites.
 
+.. image:: super_metroid_cover.jpg
+    :width: 50%
+
 You play as bounty hunter Samus Aran. (The bounty hunter
 part is kinda irrelevant, she’s not even working for
 money in this game.) She’s tasked with going to planet
@@ -36,6 +39,9 @@ allows you to break the intended sequence and get new
 powerups early. (Another added benefit of the bare bones
 story is that doing this does not make the game collapse
 under its own weight)
+
+.. image:: super_metroid_screenshot.jpg
+    :width: 50%
 
 Overall, if you have the patience to push through even if
 the way forward isn’t always clear, then I would highly

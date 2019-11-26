@@ -11,6 +11,9 @@ the player can choose from: Scout, Soldier, Pyro,
 Demoman, Heavy Weapons Guy, Engineer, Medic, Sniper,
 and Spy.
 
+.. image:: team_fortress_cover.jpg
+    :width: 50%
+
 - Scout is a light-weight glass cannon character.
   He can do a lot of damage by getting in close with his
   Scattergun, and he also captures twice as fast as any
@@ -52,6 +55,9 @@ and Spy.
   temporarily become invisible at a moment’s notice.
   He can also sabotage engineer’s buildings, and most
   importantly, use his knife to backstab enemies.
+
+.. image:: team_fortress_screenshot.jpg
+    :width: 50%
 
 Combine all this with the fact that every character has
 a huge host of unlockable weapons that change their
