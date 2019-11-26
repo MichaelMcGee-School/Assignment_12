@@ -10,6 +10,8 @@ Welcome to StaticProject's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   fortnite
+
 
 
 Indices and tables
