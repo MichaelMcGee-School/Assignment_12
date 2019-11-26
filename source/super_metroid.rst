@@ -10,7 +10,7 @@ ago, and honestly… Super Metroid has quickly became one
 of my favorites.
 
 .. image:: super_metroid_cover.jpg
-    :width: 50%
+    :width: 90%
 
 You play as bounty hunter Samus Aran. (The bounty hunter
 part is kinda irrelevant, she’s not even working for

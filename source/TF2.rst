@@ -12,7 +12,7 @@ Demoman, Heavy Weapons Guy, Engineer, Medic, Sniper,
 and Spy.
 
 .. image:: team_fortress_cover.jpg
-    :width: 50%
+    :width: 60%
 
 - Scout is a light-weight glass cannon character.
   He can do a lot of damage by getting in close with his
@@ -57,7 +57,7 @@ and Spy.
   importantly, use his knife to backstab enemies.
 
 .. image:: team_fortress_screenshot.jpg
-    :width: 50%
+    :width: 60%
 
 Combine all this with the fact that every character has
 a huge host of unlockable weapons that change their

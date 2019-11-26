@@ -8,7 +8,7 @@ lot more formative, this certainly was what cemented the
 concept as an actual genre.
 
 .. image:: quake_cover.jpg
-    :width: 50%
+    :width: 30%
 
 That said, coming out in 1996, it certainly is showing
 its age in some regard, especially visually. Every enemy
@@ -35,7 +35,8 @@ they couldn’t place as many enemies in a stage without
 the framerate dipping.
 
 .. image:: quake_screenshot.jpg
-    :width: 50%
+    :width: 60%
+
 
 The Quake franchise has also become rather famous for
 its multiplayer aspect. It had a much better netcode
