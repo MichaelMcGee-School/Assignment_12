@@ -6,10 +6,16 @@ through beat blocks in time with the music. While the game can be played offline
 and without mods, the player can download custom song maps from the community
 to expand the variety of music and challenge their skills.
 
+https://www.vrfocus.com/wp-content/uploads/2019/03/Beat_Saber_Key_Art-1024x576.jpg
+
+.. image:: Beat_Saber.jpg
+    :width: 50%
+
 How to play?
 ------------
 
 #. You must have a virtual reality headset and controllers to play Beat Saber.
+#. Stretch your body and clear your play area.
 #. Purchase Beat Saber from your preferred game store that is compatible with your headset.
 #. Navigate through the song selection screen to pick your favorite song.
 #. Once the song is loaded, swing your sabers through the beat blocks in time with the song.
@@ -26,5 +32,7 @@ The Community
 `````````````
 
 As you improve your Beat Saber skills, the game community has many higher difficulty and high variety
-music and song maps available to download and import into the game for you to grow as a player and
+music and song maps available to download.
+
+Importing these into the game allows you to grow as a player and
 enjoy your favorite music or memes in a fantastic game environment.
