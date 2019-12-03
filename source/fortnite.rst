@@ -1,7 +1,9 @@
 Fortnite
 ========
 
-.. image:: fortnite.jpg
+.. figure:: img/fortnite.jpg
+
+   *Fortnite Battle Royale* [#f1]_
 
 Fortnite is a free-to-play third-person battle-royale. Up to 100 people
 participate in a match together. Players are dropped onto the game map and
@@ -39,3 +41,5 @@ competing to be the best players in the world. A lot of these players you
 will find in your own lobbies and they will destroy you. Most of these
 players ruin all your fun and are too busy trying to sweat. Our rating for
 Fortnite is a 7/10.
+
+.. [#f1] Fortnite - Play Free Now: Official Site: Epic Games. (n.d.). Retrieved December 3, 2019, from https://www.epicgames.com/fortnite/en-US/home.

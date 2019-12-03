@@ -1,8 +1,6 @@
 UNO
 ===
 
-.. image:: uno.jpg
-
 Players take turns matching a card in their hand with
 the current card shown on top of the deck either by color or number.
 Special action cards deliver game-changing moments as they help you
@@ -13,3 +11,14 @@ Special Rule card inside the 112-card deck. If you can’t make a match,
 you must draw from the central pile! And when you’re down to one card,
 don’t forget to shout “UNO!” The first player to rid themselves of all
 the cards in their hand before their opponents wins.
+
+Cards In UNO
+-----------
+========== ==============================================================
+Card       Description
+========== ==============================================================
+Red #      Can be played on top of other red cards or of same # value.
+Blue #     Can be played on top of other blue cards or of same # value.
+Yellow #   Can be played on top of other yellow cards or of same # value.
+Green #    Can be played on top of other green cards or of same # value.
+========== ==============================================================

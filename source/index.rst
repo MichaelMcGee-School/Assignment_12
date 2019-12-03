@@ -11,6 +11,7 @@ Welcome to StaticProject's documentation!
    :caption: Contents:
 
    beatSaber
+   dues_ex_hr
    Dragon Quest XI
    enterthegungeon
    fortnite
