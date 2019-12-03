@@ -11,12 +11,17 @@ Welcome to StaticProject's documentation!
    :caption: Contents:
 
    beatSaber
+   Dragon Quest XI
+   enterthegungeon
    fortnite
    fruitNinjaVR
    just_dance
+   lol
    luigi's_mansion
    Minecraft
    mtgArena
+   overwatch
+   pkmnsw
    quake
    stranded_deep
    super_metroid

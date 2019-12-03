@@ -12,6 +12,8 @@ of my favorites.
 .. image:: super_metroid_cover.jpg
     :width: 90%
 
+*Super Metroid's Boxart* [1]_
+
 You play as bounty hunter Samus Aran. (The bounty hunter
 part is kinda irrelevant, she’s not even working for
 money in this game.) She’s tasked with going to planet
@@ -43,6 +45,13 @@ under its own weight)
 .. image:: super_metroid_screenshot.jpg
     :width: 50%
 
+*Game Screenshot* [2]_
+
 Overall, if you have the patience to push through even if
 the way forward isn’t always clear, then I would highly
 recommend trying Super Metroid. 10/10.
+
+.. rubric:: Footnotes
+
+.. [1] https://www.nintendo.co.uk/Games/Super-Nintendo/Super-Metroid-279613.html
+.. [2] https://www.syfy.com/syfywire/snes-classics-come-to-switch-nintendo-direct

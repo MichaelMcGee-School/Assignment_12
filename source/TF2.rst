@@ -14,6 +14,8 @@ and Spy.
 .. image:: team_fortress_cover.jpg
     :width: 60%
 
+*Team Fortress 2's Steam Banner* [1]_
+
 - Scout is a light-weight glass cannon character.
   He can do a lot of damage by getting in close with his
   Scattergun, and he also captures twice as fast as any
@@ -59,6 +61,8 @@ and Spy.
 .. image:: team_fortress_screenshot.jpg
     :width: 60%
 
+*Game Screenshot* [2]_
+
 Combine all this with the fact that every character has
 a huge host of unlockable weapons that change their
 playstyle, and you have yourself a game that is prime to
@@ -68,3 +72,8 @@ hours with this game than I have any other.
 Also there’s hats.
 
 9.5/10
+
+.. rubric:: Footnotes
+
+.. [1] https://store.steampowered.com/app/440/Team_Fortress_2/
+.. [2] http://en.riotpixels.com/games/team-fortress-2/screenshots/292/

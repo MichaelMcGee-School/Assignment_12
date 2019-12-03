@@ -10,6 +10,8 @@ concept as an actual genre.
 .. image:: quake_cover.jpg
     :width: 30%
 
+*Quake's Boxart* [1]_
+
 That said, coming out in 1996, it certainly is showing
 its age in some regard, especially visually. Every enemy
 in the game looks like they’re made of papercraft or
@@ -37,6 +39,8 @@ the framerate dipping.
 .. image:: quake_screenshot.jpg
     :width: 60%
 
+*Game Screenshot* [2]_
+
 
 The Quake franchise has also become rather famous for
 its multiplayer aspect. It had a much better netcode
@@ -48,3 +52,8 @@ modification of Quake 1.
 In sum, there are aspects of it that have tarnished with
 age, but it’s still a must-play for anyone who enjoys
 shooter games. 8/10
+
+.. rubric:: Footnotes
+
+.. [1] https://knowyourmeme.com/photos/1126170-quake
+.. [2] https://www.polygon.com/2016/6/22/12005460/quake-20th-anniversary-john-romero

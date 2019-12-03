@@ -9,7 +9,7 @@ must compete to be the last one standing by killing every other player in
 the game. During the game, players collect weapons, build safe structures,
 and try to avoid the Storm that damages all players outside of a safe zone.
 
-How to play Fortnite
+How to play?
 ---------------------
 
 Step 1: Pick a landing spot.
