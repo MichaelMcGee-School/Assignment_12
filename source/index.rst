@@ -11,6 +11,7 @@ Welcome to StaticProject's documentation!
    :caption: Contents:
 
    beatSaber
+   Dragon Quest XI
    fortnite
    fruitNinjaVR
    just_dance
