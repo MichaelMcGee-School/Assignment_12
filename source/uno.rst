@@ -14,11 +14,16 @@ the cards in their hand before their opponents wins.
 
 Cards In UNO
 -----------
-========== ==============================================================
-Card       Description
-========== ==============================================================
-Red #      Can be played on top of other red cards or of same # value.
-Blue #     Can be played on top of other blue cards or of same # value.
-Yellow #   Can be played on top of other yellow cards or of same # value.
-Green #    Can be played on top of other green cards or of same # value.
-========== ==============================================================
+=========== ==============================================================
+Card        Description
+=========== ==============================================================
+Red #       Can be played on top of other red cards or of same # value.
+Blue #      Can be played on top of other blue cards or of same # value.
+Yellow #    Can be played on top of other yellow cards or of same # value.
+Green #     Can be played on top of other green cards or of same # value.
+Reverse
+Skip
+Draw 2
+Wild
+Wild Draw 4
+=========== ==============================================================
