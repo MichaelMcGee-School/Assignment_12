@@ -1,9 +1,12 @@
 League of Legends
 =================
 
-League of Legends is a free to play team-based MOBA, largely known as
-one of the most popular games in existence. The game is largely
-competitive, with a major focus on ranked play, as well as professional
+.. image:: league_logo.jpg
+   :width: 50%
+
+League of Legends is a free to play team-based MOBA developed by Riot Games,
+largely known as one of the most popular games in existence. The game is
+very competitive, with a major focus on ranked play, as well as professional
 competitive play, including the League of Legends World Championships.
 
 How do you play LoL?
@@ -15,6 +18,9 @@ many intricacies within League of Legends.
 
 The Map
 ~~~~~~~
+
+.. image:: summoners_rift.jpg
+    :width: 50%
 
 League of Legends matches take place on Summoner's Rift, best described
 as a massive square shaped forest with three lanes, and each team's nexus
@@ -83,4 +89,21 @@ When a champion destroys a minion, getting the final hit on it, the
 minion drops gold and adds 1 to the player's Creep Score, or CS. CS
 is used as a general measurement of how much gold a player has, since
 that is the primary source of gold generation for the Top, Middle,
-and Bottom roles.
+and Bottom roles. This gold is used to buy items, which help to
+define your character as their class. For example, a tank would buy
+items with health, magic resistance, and armor, and an assassin would
+buy items with attack damage and lethality (armor penetration).
+
+Overall
+-------
+As stated earlier, this page only scratches the surface of LoL, where
+there are still many basic things to discuss, such as the jungle,
+objectives, draft phase, runes, and elemental rifts, as well as the more
+complicated things such as team composition, lane matchups, and how
+to play jungle.
+
+In conclusion, the game is a great experience for someone who wants
+to dedicate a lot of time to learning the game. The learning curve starts
+off very steep and levels off, but then gets steep again, meaning that
+it will take you about a month to learn all the basics of the game, and
+many years to master the intricacies.
