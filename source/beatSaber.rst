@@ -6,10 +6,10 @@ through beat blocks in time with the music. While the game can be played offline
 and without mods, the player can download custom song maps from the community
 to expand the variety of music and challenge their skills.
 
-https://www.vrfocus.com/wp-content/uploads/2019/03/Beat_Saber_Key_Art-1024x576.jpg
-
-.. image:: Beat_Saber.jpg
+.. figure:: img/Beat_Saber.jpg
     :width: 50%
+
+    *Beat Saber* [#f1]_
 
 How to play?
 ------------
@@ -36,3 +36,5 @@ music and song maps available to download.
 
 Importing these into the game allows you to grow as a player and
 enjoy your favorite music or memes in a fantastic game environment.
+
+.. [#f1] Graham, Peter. "Charity Beat Saber Tournament Beat Master Taking Place in 2020, Registrations Now Open." VRFocus, March 22, 2019. https://www.vrfocus.com/2019/03/charity-beat-saber-tournament-beat-master-taking-place-in-2020-registrations-now-open/.
