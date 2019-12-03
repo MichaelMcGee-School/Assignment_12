@@ -47,6 +47,48 @@ under its own weight)
 
 *Game Screenshot* [2]_
 
+Let's give you a run-through on all pieces of equipment
+you find to help you on your journey.
+
+=============== ===========================================
+Item            Description
+=============== ===========================================
+Morph Ball      Allows you to curl up into a ball and
+                reach small areas
+
+Missiles        Explosive weapons that can break open
+                certain doors
+
+Super Missiles  Upgraded form of the Missiles
+
+Bombs           Special explosive designed for the
+                Morph Ball
+
+Hi-Jump boots   You jump high. Who woulda thunk it.
+
+Varia Suit      Allows you to withstand hot environments
+
+Speed Booster   After running long enough, Samus can now
+                bolt through everything in her path
+
+Ice beam        Freezes enemies
+
+Power Bombs     Screen-clearing nuke item
+
+Grapple Beam    Electrical grappling hook item
+
+Wave Beam       Shoots through walls
+
+Gravity Suit    Allows Samus to move unhindered in water
+
+Space Jump      Gives the player literally infinite jumps
+
+Screw Attack    Allows Samus to deal massive damage simply
+                by jumping into enemies
+=============== ===========================================
+
+
+
 Overall, if you have the patience to push through even if
 the way forward isn’t always clear, then I would highly
 recommend trying Super Metroid. 10/10.
