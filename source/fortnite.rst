@@ -1,6 +1,8 @@
 Fortnite
 ========
 
+*Page author: Carter Fricke*
+
 .. figure:: img/fortnite.jpg
 
    *Fortnite Battle Royale* [#f1]_
