@@ -5,9 +5,9 @@ Minecraft
 
 What is it?
 -----------
-Minecraft was released on 2009 for the PC. The founder of Minecraft
+Minecraft was released in 2009 for the PC. The founder of Minecraft
 and the company behind it, Mojang, is Markus Persson. Minecraft is a sandbox
-game where the everything in the world is shaped as cubes.
+game where everything in the world is shaped like cubes.
 
 Where Should You Start?
 -----------------------
@@ -19,7 +19,7 @@ Locally there are two different modes you can choose from:
 Survival Mode
 ^^^^^^^^^^^^^
 
-In survival mode your character doesn't spawn with any items or food, and must scavenge
+In survival mode, your character doesn't spawn with any items or food and must scavenge
 around the world to survive. You have a health bar and a food bar. If the health bar drops to zero hearts
 you die and drop everything in your inventory. If your food bar drops to zero you slowly take
 damage to your health bar until you either eat food or die. There's a day/night cycle which
@@ -31,7 +31,7 @@ survival mode you have to make it to the "end" dimension, where you fight a huge
 Creative Mode
 ^^^^^^^^^^^^^
 
-In creative mode you have unlimited resources in your disposal. This means you could make a
+In creative mode, you have unlimited resources at your disposal. This means you could make a
 mountain of TnT, or a huge castle that would've been almost impossible in survival mode.
-In creative mode you don't have to worry about your food bar. Creative mode is meant for
+In creative mode, you don't have to worry about your food bar. Creative mode is meant for
 players to create anything they want without the pressure.
