@@ -13,7 +13,7 @@ don’t forget to shout “UNO!” The first player to rid themselves of all
 the cards in their hand before their opponents wins.
 
 Cards In UNO
------------
+------------
 =========== ==============================================================
 Card        Description
 =========== ==============================================================
@@ -21,9 +21,15 @@ Red #       Can be played on top of other red cards or of same # value.
 Blue #      Can be played on top of other blue cards or of same # value.
 Yellow #    Can be played on top of other yellow cards or of same # value.
 Green #     Can be played on top of other green cards or of same # value.
-Reverse
-Skip
-Draw 2
-Wild
-Wild Draw 4
+Reverse     Can be played on top of other reverse cards or of same color.
+            *Flips the direction of play.*
+Skip        Can be played on top of other skip cards or of same color.
+            *Skips the next person's turn.*
+Draw 2      Can be played on top of other Draw 2 cards or of same color.
+            *Causes next player to skip turn and draw 2 cards.*
+Wild        Can be played on top of any card.
+            *Can change the color of play to any color.*
+Wild Draw 4 Can be played on top of any card.
+            *Can change the color of play to any color and causes next player
+            to skip turn and draw 4 cards.*
 =========== ==============================================================
