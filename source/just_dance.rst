@@ -1,6 +1,7 @@
 Just Dance
 ==========
 
+*Page author: Carter Fricke*
 
 Just Dance is a motion-based dancing game for multiple players,
 with each game including a collection of songs each with their own dance

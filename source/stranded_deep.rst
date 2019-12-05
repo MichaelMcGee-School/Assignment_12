@@ -1,6 +1,8 @@
 Stranded Deep
 =============
 
+*Page author: Carter Fricke*
+
 The game features a dynamic weather and day-night cycle. Also featured
 is a building system, whereby players are able to settle on an island
 and construct a shelter or a raft with which to explore the ocean, and a
