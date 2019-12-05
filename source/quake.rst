@@ -1,6 +1,8 @@
 Quake
 =====
 
+*Page author: Michael Andros McGee*
+
 If you wanna talk about genre-defining first person
 shooter games, Quake is certainly a good contender.
 While its predecessor, Doom, from 1993 was arguably a
