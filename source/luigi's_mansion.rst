@@ -3,7 +3,9 @@ Luigi's Mansion
 *Page author: Ean Warrick*
 
 .. image:: luigi'smansion.jpg
-    :width: 60%
+    :width: 50%
+
+*Luigi's Mansion Game Cover* [1]_
 
 
 What is Luigi's Mansion?
@@ -47,3 +49,7 @@ and deal more damage to Luigi. Boo's run away much faster when being chased. The
 in this mansion, letting luigi be able to achieve the game's A rank that's rewarding when beating
 the game with a certain amount of cash. In the PAL version of Luigi's mansion, the secret
 mansion is mirrored.
+
+.. rubric:: Footnotes
+
+.. [1] https://luigi-mansion.fandom.com/wiki/Luigi%27s_Mansion
