@@ -17,7 +17,7 @@ The Map
 ~~~~~~~
 
 .. figure:: summoners_rift.jpg
-    :width: 50%
+   :width: 50%
 
    *Summoner's Rift Map* [#f1]_
 
