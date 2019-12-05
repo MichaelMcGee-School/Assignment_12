@@ -31,3 +31,14 @@ Z-Button            Items menu
 Start               Pause menu
 ================== =======================
 
+
+Secret Mansion
+---------------
+
+After beating the game, if you go to professor E. Gadd he will have another option
+called "Secret mansion". The secret mansion looks exactly like the normal one. There are
+differences, however. Luigi's vacuum has more power than normal, but ghosts have more health
+and deal more damage to Luigi. Boo's run away much faster when being chased. There is more cash
+in this mansion, letting luigi be able to achieve the game's A rank that's rewarding when beating
+the game with a certain amount of cash. In the PAL version of Luigi's mansion, the secret
+mansion is mirrored.
