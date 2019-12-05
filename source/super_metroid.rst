@@ -49,8 +49,8 @@ under its own weight)
 
 *Game Screenshot* [2]_
 
-Let's give you a run-through on all pieces of equipment
-you find to help you on your journey.
+Equipment items
+~~~~~~~~~~~~~~~
 
 =============== ===========================================
 Item            Description

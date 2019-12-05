@@ -13,6 +13,8 @@ the player can choose from: Scout, Soldier, Pyro,
 Demoman, Heavy Weapons Guy, Engineer, Medic, Sniper,
 and Spy.
 
+You can play it for free on steam `here. <https://store.steampowered.com/app/440/Team_Fortress_2/>`_
+
 .. image:: team_fortress_cover.jpg
     :width: 60%
 

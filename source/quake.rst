@@ -52,8 +52,8 @@ the original Team Fortress actually started as a
 modification of Quake 1.
 
 In sum, there are aspects of it that have tarnished with
-age, but it’s still a must-play for anyone who enjoys
-shooter games. 8/10
+age, **but it’s still a must-play for anyone who enjoys
+shooter games.** 8/10
 
 .. rubric:: Footnotes
 
