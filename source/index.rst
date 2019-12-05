@@ -12,7 +12,7 @@ Welcome to StaticProject's documentation!
 
    beatSaber
    deus_ex_hr
-   Dragon Quest XI
+   dragonQuestXI
    enterthegungeon
    fortnite
    fruitNinjaVR
