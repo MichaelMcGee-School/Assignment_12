@@ -1,11 +1,6 @@
 League of Legends
 =================
 
-.. figure:: league_logo2.png
-    :width: 50%
-
-   *League of Legends* [#f1]_
-
 League of Legends is a free to play team-based MOBA developed by Riot Games,
 largely known as one of the most popular games in existence. The game is
 very competitive, with a major focus on ranked play, as well as professional
@@ -24,7 +19,7 @@ The Map
 .. figure:: summoners_rift.jpg
     :width: 50%
 
-   *Summoner's Rift Map* [#f2]_
+   *Summoner's Rift Map* [#f1]_
 
 League of Legends matches take place on Summoner's Rift, best described
 as a massive square shaped forest with three lanes, and each team's nexus
@@ -112,5 +107,4 @@ off very steep and levels off, but then gets steep again, meaning that
 it will take you about a month to learn all the basics of the game, and
 many years to master the intricacies.
 
-.. [#f1] Ludi, Magister "eSports Game Review: League of Legends" Esports Bookies, January 21, 2018. https://esportsbookies.com/esports-betting/esports-game-review-league-legends/
-.. [#f2] Ousc, David "Discover ideas about Wallpaper LoL" Pinterest, November, 2019. https://www.pinterest.com/pin/838373286858641208/.
+.. [#f1] Ousc, David "Discover ideas about Wallpaper LoL" Pinterest, November, 2019. https://www.pinterest.com/pin/838373286858641208/.
