@@ -8,8 +8,11 @@ What Is Super Monkey Ball 2
 Super Monkey Ball 2 was developed by Nintendo for the GameCube. It was released
 on August 25, 2002. It is the sequel to Super Monkey Ball. Super Monkey Ball 2 is
 a level based game where you try to get a monkey inside a ball to roll into the
-level's goal while collecting bananas on the way. There's three modes: Challenge mode,
-Story mode, and Party mode.
+level's goal while collecting bananas on the way. There's three modes:
+
+* Challenge mode
+* Story mode
+* Party mode.
 
 Challenge Mode
 --------------
@@ -40,7 +43,9 @@ Party mode
 Party mode consists of little mini-games for up to 4 people to play. Some mini-games
 require you to unlock them before playing them. Six of the games are updated versions
 from the first Super Monkey Ball game, and Super Monkey Ball 2 offers six new games to
-play.
+play. If you want to see all the mini-games you can find them here:
+
+https://strategywiki.org/wiki/Super_Monkey_Ball_2/Minigames
 
 
 Controls
