@@ -20,7 +20,7 @@ Welcome to the 12th Assignment!
    lol
    luigi's_mansion
    Minecraft
-   mtg_arena
+   mtgarena
    overwatch
    pkmnsw
    quake
