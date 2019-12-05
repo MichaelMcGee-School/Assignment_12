@@ -1,5 +1,6 @@
 Dragon Quest XI
 ===============
+*Page author: Kole Hicok*
 
 Dragon Quest XI is the 11th installment in the Dragon Quest game series.
 These turn-based strategy games involve fantasy settings in which the hero must

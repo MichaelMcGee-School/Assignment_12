@@ -1,5 +1,6 @@
 Fruit Ninja VR
 ==============
+*Page author: Kole Hicok*
 
 Fruit Ninja VR is a virtual reality game in which the player slashes
 through thrown fruit with two swords, one in each hand.

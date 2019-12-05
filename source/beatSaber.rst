@@ -1,5 +1,6 @@
 Beat Saber
 ==========
+*Page author: Kole Hicok*
 
 Beat Saber is virtual reality rhythm game in which the player slashes sabers
 through beat blocks in time with the music. While the game can be played offline

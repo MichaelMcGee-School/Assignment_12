@@ -1,5 +1,6 @@
 Magic The Gathering: Arena
 ==========================
+*Page author: Kole Hicok*
 
 Magic The Gathering: Arena (*MTGA*) is an online version of the popular trading card game,
 Magic The Gathering. MTGA is a deck-building, trading card game in which different users
