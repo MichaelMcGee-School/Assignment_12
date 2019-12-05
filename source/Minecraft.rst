@@ -1,6 +1,8 @@
 Minecraft
 =========
 
+*Page author: Ean Warrick*
+
 What is it?
 -----------
 MineCraft was released on 2009 for the PC. The founder of MineCraft

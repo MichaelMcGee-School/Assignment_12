@@ -1,5 +1,6 @@
 Luigi's Mansion
 ===============
+*Page author: Ean Warrick*
 
 What is Luigi's Mansion?
 ------------------------

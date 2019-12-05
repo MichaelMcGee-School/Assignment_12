@@ -1,6 +1,8 @@
 Super Monkey Ball 2
 ===================
 
+*Page author: Ean Warrick*
+
 What Is Super Monkey Ball 2
 ----------------------------
 Super Monkey Ball 2 was developed by Nintendo for the GameCube. It was released
