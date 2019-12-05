@@ -21,7 +21,7 @@ many intricacies within League of Legends.
 The Map
 ~~~~~~~
 
-.. figure:: summoners_rift.png
+.. figure:: summoners_rift.jpg
     :width: 50%
 
    *Summoner's Rift Map* [#f2]_
