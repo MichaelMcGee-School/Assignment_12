@@ -1,5 +1,6 @@
 Pokemon Sword
 =============
+*Page Author: Levi Benes*
 
 The Pokemon series games are RPG adventure style games developed by Game Freak,
 and hosted on the Nintendo consoles. Pokemon Sword and Pokemon Shield are the

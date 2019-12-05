@@ -1,5 +1,6 @@
 League of Legends
 =================
+*Page Author: Levi Benes*
 
 League of Legends is a free to play team-based MOBA developed by Riot Games,
 largely known as one of the most popular games in existence. The game is

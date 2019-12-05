@@ -1,5 +1,6 @@
 Enter The Gungeon
 =================
+*Page Author: Levi Benes*
 
 Enter The Gungeon is a rogue-like dungeon crawler developed by Dodge Roll. It is made
 in a pixel-art style, invoking a level of nostalgia while still being a recent game.

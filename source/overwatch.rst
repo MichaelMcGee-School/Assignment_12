@@ -1,5 +1,6 @@
 Overwatch
 =========
+*Page Author: Levi Benes*
 
 Overwatch is a competitive class-based first-person shooter developed by
 Blizzard. It is very team oriented, and has a large professional competitive
