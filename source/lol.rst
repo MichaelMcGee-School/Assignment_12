@@ -1,7 +1,7 @@
 League of Legends
 =================
 
-.. figure:: league_logo2.jpg
+.. figure:: league_logo2.png
     :width: 50%
 
    *League of Legends* [#f1]_
@@ -21,7 +21,7 @@ many intricacies within League of Legends.
 The Map
 ~~~~~~~
 
-.. figure:: summoners_rift.jpg
+.. figure:: summoners_rift.png
     :width: 50%
 
    *Summoner's Rift Map* [#f2]_
