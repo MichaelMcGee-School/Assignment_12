@@ -10,17 +10,17 @@ Welcome to the 12th Assignment!
    :maxdepth: 1
    :caption: Contents:
 
-   beatSaber
+   beat_saber
    deus_ex_hr
-   dragonQuestXI
+   dragon_quest_xi
    enterthegungeon
    fortnite
-   fruitNinjaVR
+   fruit_ninja_vr
    just_dance
    lol
    luigi's_mansion
    Minecraft
-   mtgArena
+   mtg_arena
    overwatch
    pkmnsw
    quake
