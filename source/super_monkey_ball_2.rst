@@ -10,9 +10,9 @@ on August 25, 2002. It is the sequel to Super Monkey Ball. Super Monkey Ball 2 i
 a level based game where you try to get a monkey inside a ball to roll into the
 level's goal while collecting bananas on the way. There's three modes:
 
-* Challenge mode
-* Story mode
-* Party mode.
+* **Challenge mode**
+* **Story mode**
+* **Party mode**
 
 Challenge Mode
 --------------

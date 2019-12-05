@@ -2,6 +2,10 @@ Luigi's Mansion
 ===============
 *Page author: Ean Warrick*
 
+.. image:: luigi'smansion.jpg
+    :width: 60%
+
+
 What is Luigi's Mansion?
 ------------------------
 
