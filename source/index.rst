@@ -29,12 +29,3 @@ Welcome to StaticProject's documentation!
    super_monkey_ball_2
    TF2
    uno
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
