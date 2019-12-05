@@ -1,8 +1,10 @@
 League of Legends
 =================
 
-.. image:: league_logo.jpg
-   :width: 50%
+.. figure:: league_logo2.jpg
+    :width: 50%
+
+   *League of Legends* [#f1]_
 
 League of Legends is a free to play team-based MOBA developed by Riot Games,
 largely known as one of the most popular games in existence. The game is
@@ -19,8 +21,10 @@ many intricacies within League of Legends.
 The Map
 ~~~~~~~
 
-.. image:: summoners_rift.jpg
+.. figure:: summoners_rift.jpg
     :width: 50%
+
+   *Summoner's Rift Map* [#f2]_
 
 League of Legends matches take place on Summoner's Rift, best described
 as a massive square shaped forest with three lanes, and each team's nexus
@@ -103,7 +107,10 @@ complicated things such as team composition, lane matchups, and how
 to play jungle.
 
 In conclusion, the game is a great experience for someone who wants
-to dedicate a lot of time to learning the game. The learning curve starts
+to dedicate a lot of time to being competitive. The learning curve starts
 off very steep and levels off, but then gets steep again, meaning that
 it will take you about a month to learn all the basics of the game, and
 many years to master the intricacies.
+
+.. [#f1] Ludi, Magister "eSports Game Review: League of Legends" Esports Bookies, January 21, 2018. https://esportsbookies.com/esports-betting/esports-game-review-league-legends/
+.. [#f2] Ousc, David "Discover ideas about Wallpaper LoL" Pinterest, November, 2019. https://www.pinterest.com/pin/838373286858641208/.
