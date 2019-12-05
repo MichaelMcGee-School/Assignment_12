@@ -1,6 +1,8 @@
 Deus Ex: Human Revolution
 =========================
 
+*Page author: Michael Andros McGee*
+
 This game is something else. It's certainly an
 interesting subject for me, being a sequel to what is
 simply my favorite game ever made: The original
@@ -32,7 +34,7 @@ Director's Cut re-release.
 .. image:: dx_screenshot.jpg
     :width: 60%
 
-*Game Screenshot* [1]_
+*Game Screenshot* [2]_
 
 Although, having played the original Deus Ex, I can't
 help but notice some of the game's shortcomings. Although

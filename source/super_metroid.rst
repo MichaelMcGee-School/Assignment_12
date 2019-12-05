@@ -1,6 +1,8 @@
 Super Metroid
 =============
 
+*Page author: Michael Andros McGee*
+
 Super Metroid was published by Nintendo in 1994, and is
 universally credited as being one of the defining titles
 of the Metroidvania genre. A lot of newer generations

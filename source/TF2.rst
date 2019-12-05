@@ -1,6 +1,8 @@
 Team Fortress 2
 ===============
 
+*Page author: Michael Andros McGee*
+
 Team Fortress 2 (commonly abbreviated as TF2) is a
 multiplayer first-person shooter released by Valve
 Software in 2007, and the community for it is still
