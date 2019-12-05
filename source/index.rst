@@ -27,5 +27,5 @@ Welcome to the 12th Assignment!
    stranded_deep
    super_metroid
    super_monkey_ball_2
-   TF2
+   tf_2
    uno
