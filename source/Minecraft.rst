@@ -21,4 +21,4 @@ survival mode you have to make it to the "end" dimension, where you fight a huge
 In creative mode you have unlimited resources in your disposal. This means you could make a
 mountain of TnT, or a huge castle that would've been almost impossible in survival mode.
 In creative mode you don't have to worry about your food bar. Creative mode is meant for
-players to create anything they want without the pressure that survival mode brings.
+players to create anything they want without the pressure.
