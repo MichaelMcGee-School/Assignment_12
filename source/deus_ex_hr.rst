@@ -9,7 +9,7 @@ simply my favorite game ever made: The original
 *Deus Ex*, released back in 2000. Deus Ex: Human Revolution
 was released by Square Enix in 2007 to critical acclaim.
 To this day, it's still an extremely well regarded action
-RPG, commonly praised for allowing the player to chose
+RPG, commonly praised for allowing the player to choose
 a variety of ways to approach or even circumvent any
 situation they come across.
 
