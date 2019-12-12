@@ -14,6 +14,16 @@ Players need to manage their vitals of health, hunger, thirst, and sleep,
 against the elements they face, and are able to search sunken shipwrecks
 and islands for interesting and rare equipment.
 
+Essential Items in Stranded Deep
+--------------------------------
+
+* Knife
+* Axe
+* Spear
+* Coconut
+* Wood
+* Palm Leaves
+
 Stranded Deep Rating
 --------------------
 
