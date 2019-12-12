@@ -43,9 +43,9 @@ Party mode
 Party mode consists of little mini-games for up to 4 people to play. Some mini-games
 require you to unlock them before playing them. Six of the games are updated versions
 from the first Super Monkey Ball game, and Super Monkey Ball 2 offers six new games to
-play. If you want to see all the mini-games you can find them here:
+play. If you want to see all the mini-games you can find them `here <https://strategywiki.org/wiki/Super_Monkey_Ball_2/Minigames>`_:
 
-https://strategywiki.org/wiki/Super_Monkey_Ball_2/Minigames
+
 
 
 Controls
